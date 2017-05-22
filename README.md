@@ -1,5 +1,5 @@
 # File Carving
-In this lab you'll learn about File Carving. File Carving goes one step beyond reading raw binary data. In File Carving, you are editing and manipulating binary data as well. You are basically cutting and pasting one file inside of another in order to hide it.   
+In this lab you'll learn about File Carving. File Carving goes one step beyond using a hex editor to read raw binary data. In File Carving, you are editing and manipulating binary data as well. You are basically cutting and pasting one file inside of another in order to hide it.   
 
 Begin with the following image:   
 ![carvingex.jpg](carvingex.jpg)   
