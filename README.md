@@ -2,9 +2,9 @@
 In this lab you'll learn about File Carving. File Carving goes one step beyond reading raw binary data. In File Carving, you are editing and manipulating binary data as well. You are basically cutting and pasting one file inside of another in order to hide it.   
 
 Begin with the following image:   
-![carving-ex.jpg](carving-ex.jpg)   
+![carvingex.jpg](carvingex.jpg)   
 
-It looks like an ordinary picture, but it is hiding a secret message. *Right click* on the `carving-ex.jpg` file, and choose *Save Image* to download the picture. Now, start HxD and open `carving-ex.jpg` so you can read through the raw binary data.
+It looks like an ordinary picture, but it is hiding a secret message. *Right click* on the `carvingex.jpg` file, and choose *Save Image* to download the picture. Now, start HxD and open `carvingex.jpg` so you can read through the raw binary data.
 ```
 00008e20: 3fff d950 4b03 0414 0000 0008 0088 6c0c  ?..PK.........l.
 00008e30: 3f18 f066 802d 0000 0032 0000 000a 001c  ?..f.-...2......
