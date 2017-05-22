@@ -20,7 +20,7 @@ Use HxD to delete all the data in front of the `PK..` Save the file as `answers.
 Use the same technique on the following image and write the answer down and show it to your instructor.  
 ![carving.jpg](carving.jpg)   
 
-We can hide other files in pictures as well. The following picture has zip file of another picture. *Right click* on `PuppyCarving.jpg` and repeat the process. Write what the thing is in the hidden picture and check your answer with your instructor.
-![PuppyCarving.jpg](carving.jpg)
+We can hide other files in pictures as well. The following picture has zip file of another picture. *Right click* on `PuppyCarving.jpg` and repeat the process. Write what the thing is in the hidden picture and check your answer with your instructor.   
+![PuppyCarving.jpg](PuppyCarving.jpg)
 
 *this assignment was adapted from http://dirtbags.net/ctf/tutorial/carving.html*
